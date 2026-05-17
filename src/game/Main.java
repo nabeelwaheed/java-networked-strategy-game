@@ -1,6 +1,5 @@
 /**
  * Muhammad Nabeel Waheed
- * Kev Akpinar
  */
 /**
  * Entry point of the Village War Strategy Game.
